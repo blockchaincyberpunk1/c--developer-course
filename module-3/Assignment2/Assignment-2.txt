@@ -1,0 +1,36 @@
+Introduction to Memory Management in C++
+
+Objective: Learn about memory management in C++ and the concept of manual memory allocation.
+
+Instructions:
+
+In this assignment, you will explore the fundamentals of memory management in C++, including the concepts of stack and heap memory. You will also gain hands-on experience with manual memory allocation and deallocation using pointers. Below are the details of the assignment:
+
+Part 1: Understanding Memory Management Basics (10 points)
+
+Write a concise explanation (150-200 words) of the basics of memory management in C++. Discuss the roles of stack and heap memory, their differences, and when each is typically used in C++ programs.
+Part 2: Manual Memory Allocation and Deallocation (20 points)
+
+Develop a C++ program that demonstrates manual memory allocation and deallocation using pointers. Your program should perform the following tasks:
+
+Allocate memory on the heap using the new operator to create a dynamic integer array of a specified size.
+Populate the allocated array with random integer values.
+Display the content of the dynamically allocated array.
+Deallocate the memory on the heap using the delete operator.
+Your program should include proper error handling and validation to ensure that memory allocation is successful. Handle cases where memory allocation fails gracefully.
+
+Part 3: Documentation (10 points)
+
+Provide comments within your code to explain the purpose and functionality of each section, especially the memory allocation and deallocation parts. Ensure that your code is well-documented for clarity.
+Submission:
+
+Submit your C++ program, including comments, and your written explanation of memory management basics. Ensure that your code effectively demonstrates manual memory allocation and deallocation using pointers.
+
+Grading Criteria:
+
+Clear and concise explanation of memory management basics.
+A well-structured C++ program that demonstrates manual memory allocation and deallocation.
+Proper error handling and validation for memory allocation.
+Effective comments and documentation within the code.
+Correctness and functionality of the C++ program.
+Adherence to submission guidelines and deadlines.

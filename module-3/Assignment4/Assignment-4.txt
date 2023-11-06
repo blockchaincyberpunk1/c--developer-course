@@ -1,0 +1,37 @@
+Memory Management Best Practices in C++
+
+Objective: Explore best practices for memory management in C++.
+
+Instructions:
+
+In this assignment, you will delve into best practices for memory management in C++. You will research and compile a list of these best practices and then apply them in a C++ program. The goal is to create a program that exemplifies these practices while focusing on efficient memory usage and avoiding common memory-related issues. Here are the details of the assignment:
+
+Part 1: Research on Memory Management Best Practices (15 points)
+
+Conduct research to identify and compile a list of best practices for memory management in C++. These best practices should cover topics such as memory allocation, deallocation, avoiding memory leaks, and improving code efficiency. Write a document (200-250 words) summarizing these best practices.
+Part 2: C++ Program Demonstrating Best Practices (35 points)
+
+Develop a C++ program that exemplifies the memory management best practices you researched in Part 1. Your program should perform the following tasks:
+Dynamically allocate memory for data structures or objects.
+Properly release memory when it is no longer needed, ensuring there are no memory leaks.
+Use appropriate data types and sizes to minimize memory consumption.
+Avoid common memory-related issues, such as accessing deallocated memory or using uninitialized pointers.
+Implement efficient memory management strategies, such as reuse of memory blocks or smart pointers.
+Part 3: Documentation (10 points)
+
+Provide comments and documentation within your C++ program to explain how you have implemented each of the memory management best practices. Make sure your code is well-documented for clarity.
+Part 4: Reflection (10 points)
+
+Write a brief reflection (150-200 words) on your experience implementing memory management best practices in your C++ program. Discuss any challenges you encountered, the benefits of following these practices, and how they contribute to writing robust and efficient C++ code.
+Submission:
+
+Submit your C++ program, the document summarizing memory management best practices, and your reflection. Ensure that your code effectively demonstrates the best practices and adheres to good coding standards.
+
+Grading Criteria:
+
+Comprehensive and well-structured list of memory management best practices.
+A well-documented C++ program that effectively implements these best practices.
+Proper comments and documentation within the code.
+Correctness and functionality of the C++ program.
+Clear and insightful reflection on the experience of implementing best practices.
+Adherence to submission guidelines and deadlines.

@@ -1,0 +1,38 @@
+Functions in C++
+
+Objective: Understand the concept of functions and their use in C++.
+
+Instructions:
+
+Part 1: Understanding Functions (40 points)
+
+What Are Functions? (15 points): Explain the concept of functions in programming. Discuss why functions are advantageous in organizing code and enhancing code reusability. Provide examples of situations where functions are commonly used.
+
+Defining Functions in C++ (15 points): Describe how functions are defined in C++. Explain the syntax for creating user-defined functions, including function headers, return types, and function bodies. Discuss the role of parameters in functions.
+
+Parameters and Return Values (10 points): Discuss the use of parameters in functions to pass data and the concept of return values to retrieve results. Provide examples of functions with parameters and return values.
+
+Part 2: C++ Program with User-Defined Functions (60 points)
+
+Write a C++ program that defines and uses user-defined functions to perform specific tasks. Follow these guidelines:
+
+Problem Description (10 points): Choose a problem or task that can be solved using functions. Describe the problem in a comment block at the beginning of your code.
+
+Function Definitions (20 points): Define at least two user-defined functions within your program. These functions should encapsulate specific tasks related to the chosen problem. Ensure that you use appropriate parameter types and return values.
+
+Function Calls (15 points): Use function calls to invoke the user-defined functions within your program. Pass appropriate arguments to the functions and store the returned values, if applicable.
+
+Input and Output (15 points): If relevant to your problem, include input prompts to collect user input and display meaningful output to the console.
+
+Submission:
+
+Submit your C++ program code along with explanations and comments that describe the functions you've defined, their purpose, and how they contribute to solving the problem. Ensure your code is well-structured and follows best practices for readability.
+
+Grading Criteria:
+
+Clear and accurate explanations of functions and their advantages.
+Properly defined user-defined functions within the program.
+Correct use of function calls with appropriate arguments.
+Successful execution of the program to solve the chosen problem.
+Adequate documentation and comments within the code.
+Overall presentation and organization of the submission.

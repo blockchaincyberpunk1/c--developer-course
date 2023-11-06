@@ -1,0 +1,50 @@
+Inheritance and Polymorphism in C++
+
+Objective: Understand inheritance and polymorphism in C++.
+
+Instructions:
+
+In this assignment, you will explore the concepts of inheritance and polymorphism in C++. You will create a base class and derived classes to demonstrate inheritance and implement polymorphism using virtual functions. Below are the tasks for this assignment:
+
+Introduction to Inheritance (15 points):
+
+Begin by explaining the concept of inheritance in object-oriented programming (OOP).
+Discuss the significance of inheritance in code reusability and the organization of related classes.
+Describe types of inheritance in C++, such as single, multiple, and multilevel inheritance.
+Define a Base Class (20 points):
+
+Define a C++ base class representing a generic entity (e.g., an animal, a shape).
+Include data members and member functions in the base class that are relevant to the entity.
+Implement at least one virtual function in the base class to enable polymorphism.
+Create Derived Classes (20 points):
+
+Create two or more derived classes that inherit from the base class.
+Each derived class should represent a specific type of the entity (e.g., a dog and a cat if the base class is "animal").
+Add unique data members and member functions to each derived class to represent their distinct characteristics.
+Polymorphism Using Virtual Functions (20 points):
+
+Implement polymorphism by using virtual functions in the base class.
+Override the virtual function in each derived class with specific implementations.
+Write a C++ program that demonstrates how polymorphism works when objects of derived classes are treated as objects of the base class.
+Documentation and Comments (15 points):
+
+Create a well-structured document that presents your base class, derived classes, and program.
+Include comments in your code to explain the purpose of the classes, functions, and key code segments.
+Use appropriate headings and formatting for clarity.
+Testing and Output (10 points):
+
+Ensure that your program runs without errors.
+Include sample output in your document that illustrates the use of inheritance and polymorphism.
+Test different scenarios to showcase the behavior of base and derived classes.
+Submission:
+
+Submit your assignment document that includes the class definitions, C++ program, comments, and sample output. Make sure your document is organized and easy to follow.
+
+Grading Criteria:
+
+Clear explanations of inheritance and its significance in OOP.
+Well-defined base class structure with relevant data members and virtual functions.
+Creation of meaningful derived classes with unique characteristics.
+Effective demonstration of polymorphism through virtual functions.
+Documentation that is well-organized and includes helpful comments.
+Correct and meaningful sample output that showcases inheritance and polymorphism.

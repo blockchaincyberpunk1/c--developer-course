@@ -1,0 +1,47 @@
+Introduction to Object-Oriented Programming (OOP) in C++
+
+Objective: Explore the core principles of Object-Oriented Programming (OOP).
+
+Instructions:
+
+In this assignment, you will dive into the fundamental concepts of Object-Oriented Programming (OOP) using C++. OOP is a programming paradigm that uses objects and classes to model real-world entities and their relationships. Below are the tasks for this assignment:
+
+Introduction to OOP (15 points):
+
+Provide a clear and concise explanation of what Object-Oriented Programming (OOP) is.
+Describe the key principles of OOP, including:
+Classes and Objects: Explain what classes and objects are and how they are related in OOP.
+Encapsulation: Describe the concept of encapsulation and how it helps in data hiding and access control.
+Inheritance: Explain how inheritance allows the creation of new classes based on existing ones, along with its benefits.
+Polymorphism: Define polymorphism and illustrate how it enables objects of different classes to be treated as objects of a common base class.
+Real-World Examples (25 points):
+
+Provide at least two real-world examples (e.g., a car, a bank account, a student) where you can apply OOP principles to model objects and their relationships.
+For each example, create a simplified class diagram that outlines the classes, their attributes, and methods.
+Explain how the principles of OOP are utilized in your examples. For instance, how does encapsulation protect data, or how does inheritance model relationships?
+Code Snippets (20 points):
+
+Write C++ code snippets for at least one of the real-world examples you provided in the previous task.
+Include code that demonstrates the creation of objects, setting attributes, and invoking methods.
+Ensure that the code showcases the concepts of classes, objects, and encapsulation.
+Documentation (15 points):
+
+Create a clear and well-organized document that presents your explanations, diagrams, and code snippets.
+Use appropriate headings and formatting for readability.
+Include comments in your code snippets to explain the purpose of classes, attributes, and methods.
+Presentation (10 points - Optional):
+
+If you prefer, prepare a brief presentation that highlights the key points of your assignment.
+You can use slides or any other format you find suitable.
+If you choose to present, be ready to answer questions from your instructor or peers.
+Submission:
+
+Submit your assignment document that includes explanations, class diagrams, code snippets, and any optional presentation materials. Ensure that your explanations are clear and easy to understand, especially for readers who may be new to OOP concepts.
+
+Grading Criteria:
+
+Clear and accurate explanations of OOP principles (classes, objects, encapsulation, inheritance, polymorphism).
+Real-world examples that demonstrate the application of OOP principles.
+Quality and completeness of class diagrams and code snippets.
+Documentation that is well-structured and easy to follow.
+Optional presentation, if provided, should be well-prepared and effectively convey the concepts.

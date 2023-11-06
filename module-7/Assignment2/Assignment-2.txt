@@ -1,0 +1,40 @@
+Introduction to Game Engines
+
+Objective: Learn about game development frameworks and engines.
+
+Instructions:
+
+In this assignment, you will explore the concept of game engines and their significance in simplifying the game development process. You will also research and provide an overview of popular game development frameworks and engines that support C++, such as Unreal Engine and Unity.
+
+Part 1: Understanding Game Engines
+
+Game Engines Overview: Explain what a game engine is and why it is a critical component of modern game development. Discuss how game engines simplify the development process and save time for game developers.
+
+Core Components: Describe the core components of a typical game engine, including the rendering engine, physics engine, audio system, and scripting interface. Explain the role of each component in creating a complete game.
+
+Benefits of Using Game Engines: Discuss the advantages of using a game engine, such as cross-platform compatibility, pre-built assets, and support for multiple game genres.
+
+Part 2: Popular Game Development Frameworks and Engines
+
+Unreal Engine: Provide an overview of Unreal Engine, including its history, features, and the types of games it is commonly used for. Discuss Unreal Engine's use of C++ as a scripting language and its Blueprint visual scripting system.
+
+Unity: Introduce Unity as a widely used game development platform. Explain its support for C# and its ecosystem, including the Asset Store and the Unity Editor. Mention notable games developed with Unity.
+
+Other C++-Based Engines: Research and briefly describe other game engines that support C++ for game development. Include any notable features or advantages they offer.
+
+Part 3: Use Cases and Examples
+
+Case Studies: Select two or more games or projects developed using Unreal Engine or Unity. Provide details about the games, their genres, and any unique features that showcase the capabilities of the respective engines.
+
+Comparison: Compare and contrast Unreal Engine and Unity, highlighting their strengths and weaknesses, especially concerning C++ development.
+
+Submission:
+
+Submit a document containing your explanations of game engines, overviews of Unreal Engine and Unity, and insights into other C++-based engines. Include any references or sources you consult.
+
+Grading Criteria:
+
+Clear explanation of game engines and their significance in game development.
+Thorough overviews of Unreal Engine and Unity, including their features and use cases.
+Insightful comparisons between Unreal Engine and Unity, with consideration of C++ development support.
+Case studies that provide real-world examples of games developed with these engines.

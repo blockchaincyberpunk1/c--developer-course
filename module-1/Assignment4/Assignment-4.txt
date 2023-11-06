@@ -1,0 +1,42 @@
+Data Types and Variables in C++
+
+Objective: Explore C++ data types and variables.
+
+Instructions:
+
+Part 1: Understanding Data Types (40 points)
+
+Introduction to Data Types (10 points): Describe the concept of data types in C++. Explain why data types are essential in programming and how they determine the type of data a variable can store.
+
+Common Data Types (15 points): Discuss common built-in data types in C++, including but not limited to int, double, char, bool, and string. Explain the appropriate use cases for each data type and the range of values they can store.
+
+Type Casting (15 points): Explain what type casting is and why it's used in C++. Provide examples of explicit and implicit type casting and discuss the potential risks associated with type casting.
+
+Part 2: C++ Program with Data Types (60 points)
+
+Write a C++ program that uses different data types to store and manipulate data. Follow these guidelines:
+
+Problem Description (10 points): Choose a problem or task that involves working with various data types. Describe the problem in a comment block at the beginning of your code.
+
+Variable Declarations (20 points): Declare and initialize variables of different data types that are relevant to your chosen problem. Use meaningful variable names.
+
+Data Manipulation (20 points): Perform operations and manipulations on the variables to achieve the desired outcome. This may include mathematical calculations, string manipulations, or logical operations.
+
+Type Casting (10 points, if applicable): If your problem requires type casting, demonstrate the use of type casting to convert data from one type to another safely.
+
+Part 3: Testing and Output (20 points)
+
+Include appropriate input prompts and demonstrate the results of your program's execution. Ensure that the output is clear and meaningful.
+Submission:
+
+Submit your C++ program code along with explanations and comments that describe the data types used, their role in solving the problem, and any type casting performed. Ensure your code is well-structured and follows best practices for readability.
+
+Grading Criteria:
+
+Clear and accurate explanations of data types and their importance.
+Proper declaration and initialization of variables with appropriate data types.
+Correct data manipulation and operations to solve the chosen problem.
+Successful execution of the program with meaningful output.
+Adequate documentation and comments within the code.
+Proper use of type casting, if applicable.
+Overall presentation and organization of the submission.

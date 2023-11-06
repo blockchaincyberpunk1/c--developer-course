@@ -1,0 +1,36 @@
+Smart Pointers in C++
+
+Objective: Study smart pointers as a safer alternative for memory management.
+
+Instructions:
+
+In this assignment, you will explore the concept of smart pointers in C++ and understand their role in memory management. You will also gain practical experience by developing a C++ program that utilizes smart pointers for memory management. Here are the details of the assignment:
+
+Part 1: Understanding Smart Pointers (15 points)
+
+Write an explanation (150-200 words) of what smart pointers are in C++. Describe the different types of smart pointers, including std::unique_ptr, std::shared_ptr, and std::weak_ptr. Explain how each type works and their advantages in memory management compared to raw pointers.
+Part 2: C++ Program with Smart Pointers (25 points)
+
+Develop a C++ program that demonstrates the use of smart pointers to manage memory. Your program should accomplish the following tasks:
+Create a class representing a simple data structure (e.g., a linked list or a binary tree).
+Use smart pointers to dynamically allocate memory for instances of this class.
+Implement operations on your data structure (e.g., insert, delete, traverse) using smart pointers.
+Ensure that your program correctly releases memory when objects are no longer needed.
+Part 3: Advantages of Smart Pointers (10 points)
+
+In your C++ program, include comments to explain how smart pointers are used and the advantages they offer over manual memory allocation and deallocation using raw pointers.
+Part 4: Documentation (10 points)
+
+Provide comments within your code to explain the purpose and functionality of each section, especially the parts that involve smart pointers. Ensure that your code is well-documented for clarity.
+Submission:
+
+Submit your C++ program, including comments, and your written explanation of smart pointers. Make sure that your code effectively demonstrates the advantages of smart pointers over manual memory allocation.
+
+Grading Criteria:
+
+Clear and concise explanation of smart pointers in C++.
+A well-structured C++ program that effectively uses smart pointers for memory management.
+Proper comments and documentation within the code.
+Correctness and functionality of the C++ program.
+Demonstrated advantages of smart pointers in memory management.
+Adherence to submission guidelines and deadlines.

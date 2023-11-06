@@ -1,0 +1,38 @@
+Programming Concepts in C++
+
+Objective: Learn and apply fundamental programming concepts in C++.
+
+Instructions:
+
+Part 1: Understanding Programming Concepts (40 points)
+
+Variables and Data Types (15 points): Explain the concepts of variables and data types in C++. Describe different data types such as integers, floating-point numbers, characters, and strings. Discuss how variables are declared, initialized, and assigned values in C++.
+
+Constants (10 points): Define constants in C++. Explain the difference between constant and variable values. Provide examples of when and why constants are useful in programming.
+
+Control Structures (15 points): Describe control structures like if-else statements and loops (e.g., for or while loops). Explain how these structures control the flow of a C++ program. Provide examples of situations where each control structure is typically used.
+
+Part 2: C++ Program (60 points)
+
+Write a C++ program that demonstrates the use of variables, constants, and control structures to solve a simple problem. Follow these guidelines:
+
+Problem Description (10 points): Choose a straightforward problem to solve using your C++ program. Describe the problem in a comment block at the beginning of your code.
+
+Variables and Constants (15 points): Declare variables to store relevant data and constants for values that should not change. Ensure you use appropriate data types.
+
+Control Structures (25 points): Implement control structures like if-else statements and loops to solve the problem. Use conditional statements to make decisions or perform actions based on conditions. Utilize loops to repeat specific tasks.
+
+Input and Output (10 points): If applicable to your problem, include input prompts to collect user input and display meaningful output to the console.
+
+Submission:
+
+Submit your C++ program code along with explanations and comments that describe how you applied the programming concepts mentioned in Part 1 to solve the problem in Part 2. Ensure your code is well-structured and follows best practices for readability.
+
+Grading Criteria:
+
+Accuracy and clarity of explanations regarding programming concepts.
+Proper use of variables and constants in the program.
+Correct implementation of control structures.
+Successful execution of the program to solve the chosen problem.
+Adequate documentation and comments within the code.
+Overall presentation and organization of the submission.

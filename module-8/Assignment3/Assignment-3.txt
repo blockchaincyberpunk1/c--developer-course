@@ -1,0 +1,45 @@
+Contributing to Open-Source C++ Projects
+
+Objective: Encourage students to contribute to open-source C++ projects.
+
+Instructions:
+
+In this assignment, you will have the opportunity to gain hands-on experience contributing to an open-source C++ project on platforms like GitHub. Contributing to open-source projects not only allows you to improve your coding skills but also helps you become part of a larger developer community.
+
+Part 1: Project Selection and Setup
+
+Project Selection: Start by identifying an open-source C++ project on platforms like GitHub that aligns with your interests or skills. Ensure that the project is active and has open issues or areas where contributions are needed. Projects related to C++ libraries, utilities, or applications are good options.
+
+Fork the Repository: Once you've chosen a project, fork the project's repository to create your own copy. This copy will be used for making changes and contributions.
+
+Part 2: Contribution
+
+Issue Selection: Browse through the project's issues or discussions to find a task or bug that you are interested in working on. Select an issue that matches your skills and the project's guidelines for contributions. Make sure to read the contribution guidelines provided by the project.
+
+Code Changes: Create a new branch in your forked repository to work on the issue. Make the necessary code changes or improvements to address the issue you selected. Follow coding standards and best practices specified by the project.
+
+Documentation (Optional): If the project lacks documentation or needs updates, consider contributing by improving the documentation. This could include updating README files, adding comments to code, or creating user guides.
+
+Testing: Test your code changes thoroughly to ensure they work as expected and do not introduce new issues.
+
+Part 3: Pull Request
+
+Pull Request (PR): Once your code changes are ready, create a pull request (PR) to merge your changes into the original project. Provide a clear and descriptive title and description for your PR. Reference the issue you are addressing in the description.
+Part 4: Documentation and Reflection
+
+Documentation: Document your contributions in a separate document or markdown file. Include details about the issue you worked on, the changes you made, and any challenges you encountered during the contribution process.
+
+Reflection: Reflect on your experience contributing to the open-source project. Discuss the skills you developed or enhanced, any obstacles you overcame, and the importance of open-source contributions in the software development community.
+
+Part 5: Submission
+
+Submission: Submit your contributions to your instructor following the provided guidelines. Include your documentation and reflection document along with a link to your PR on the open-source project.
+Grading Criteria:
+
+Evidence of contributing to an open-source C++ project (e.g., code changes, documentation updates).
+Quality of the contributions (adherence to project guidelines, coding standards, and best practices).
+Submission of a well-organized documentation document outlining contributions and challenges.
+Thoughtful reflection on the contribution experience, including skills gained and the value of open-source contributions in the software development community.
+
+
+

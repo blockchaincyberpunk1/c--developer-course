@@ -1,0 +1,44 @@
+Advanced C++ Features
+
+Objective: Study advanced C++ language features.
+
+Instructions:
+
+In this assignment, you will dive into advanced C++ features to expand your programming skills. You will explore topics like operator overloading, templates, exception handling, and dynamic memory allocation. Your task is to write C++ code that showcases the use of at least one advanced feature. Below are the details of the assignment:
+
+Introduction (10 points):
+
+Start with a brief introduction to the purpose of this assignment.
+Mention the advanced C++ features you will explore (e.g., operator overloading, templates, exception handling, dynamic memory allocation).
+Choose a Feature (10 points):
+
+Select one of the advanced features (e.g., operator overloading, templates, exception handling, dynamic memory allocation) that you want to focus on for this assignment.
+Provide a rationale for your choice and explain why it interests you.
+Code Implementation (40 points):
+
+Write C++ code that effectively demonstrates the chosen advanced feature.
+If you choose operator overloading, create a class and overload an operator (e.g., +, -, *, /) to perform custom operations.
+If you choose templates, design a template class or function that works with multiple data types.
+If you choose exception handling, create a program that handles exceptions gracefully and provides informative error messages.
+If you choose dynamic memory allocation, use the new and delete operators to allocate and deallocate memory.
+Documentation and Comments (20 points):
+
+Create a well-structured document that includes your C++ code.
+Include comments in your code to explain the purpose of classes, functions, and key code segments.
+Provide explanations of how your code showcases the chosen advanced feature.
+Testing and Output (10 points):
+
+Ensure that your program runs without errors.
+Include sample output or test cases that demonstrate the functionality of your code.
+If applicable, test your code with different inputs or scenarios to highlight its flexibility.
+Submission:
+
+Submit your assignment document that includes the C++ code, comments, explanations, and sample output. Make sure your document is organized and easy to follow.
+
+Grading Criteria:
+
+Clear explanation of the chosen advanced feature and rationale for selection.
+Effective implementation of the chosen feature in C++ code.
+Well-structured code with meaningful comments.
+Correct and meaningful sample output or test cases.
+Demonstrated understanding of the advanced feature and its application.

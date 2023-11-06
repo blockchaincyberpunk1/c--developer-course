@@ -1,0 +1,51 @@
+Mini Project - Basic Application in C++
+
+Objective: Apply C++ programming fundamentals to create a simple console-based application.
+
+Scenario: Building a Basic Calculator Application
+
+Task:
+
+In this assignment, you will design and implement a basic console-based calculator application using C++. Your calculator should support addition, subtraction, multiplication, and division operations. The user should be able to perform calculations by entering numbers and selecting operations from a menu.
+
+Instructions:
+
+User Interface (10 points):
+
+Display a welcoming message explaining the purpose of the calculator.
+Create a menu for the user to select an operation (addition, subtraction, multiplication, division) or exit the calculator.
+Prompt the user to enter two numbers.
+Depending on the selected operation, perform the calculation and display the result.
+Allow the user to perform multiple calculations without restarting the program.
+Implementation (30 points):
+
+Implement functions for each of the four operations (addition, subtraction, multiplication, division).
+Use appropriate error handling to handle scenarios such as division by zero.
+Use functions to encapsulate the logic for each operation.
+Ensure that the program continues running until the user chooses to exit.
+Documentation and Code Explanation (20 points):
+
+Provide comments and documentation within your code to explain the purpose of variables, control structures, and functions.
+Include a brief explanation of how each operation function works.
+Testing and Validation (10 points):
+
+Test your calculator with various inputs, including positive and negative numbers and decimal values.
+Verify that the calculator produces accurate results for different operations.
+Include test cases and their expected outcomes in your documentation.
+Presentation (10 points):
+
+Prepare a brief presentation that demonstrates how to use your calculator.
+Showcase its features, including the menu, user input, and calculation results.
+Explain any error messages or warnings that may occur during usage.
+Submission:
+
+Submit your C++ program code for the calculator application along with documentation that explains the code structure, variable usage, and the functionality of each operation. Include test cases and their expected outcomes. Additionally, provide the presentation or a script outlining the demonstration of your calculator.
+
+Grading Criteria:
+
+Implementation of a functional calculator application.
+Correct handling of operations, including error cases.
+Clarity and readability of the code with appropriate comments.
+Thorough testing and validation of the application.
+Documentation and explanations of code and functionality.
+Quality and clarity of the presentation or demonstration.

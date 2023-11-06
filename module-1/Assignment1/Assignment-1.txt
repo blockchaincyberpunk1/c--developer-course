@@ -1,0 +1,37 @@
+Exploring C++
+
+Objective: Get acquainted with the C++ programming language by exploring its history and writing a simple "Hello, World!" program.
+
+Instructions:
+
+Part 1: Research C++ History (50 points)
+
+Origins of C++ (15 points): Research and provide a brief history of C++. Include information about its origins, key contributors, and the problem it aimed to solve. Explain why C++ was developed and its significance in the world of programming languages.
+
+Milestones in C++ Development (35 points): Highlight major milestones in the development of C++. Include important releases, standardizations (such as C++98, C++11, etc.), and key features introduced in each version. Discuss how C++ evolved over time and adapted to changing programming paradigms.
+
+Part 2: "Hello, World!" Program (50 points)
+
+Write a simple C++ program that displays a "Hello, World!" message on the console. Follow these guidelines:
+
+Code (30 points): Write a well-structured C++ program that accomplishes the following:
+
+Includes the necessary header files.
+Contains a main() function where the program execution begins.
+Uses the std::cout stream to output the "Hello, World!" message.
+Ends with a return 0; statement to indicate successful program execution.
+Documentation (10 points): Add comments to your code to explain key sections of the program. Include a comment block at the beginning of your code with your name, the assignment name, and a brief description of the program's purpose.
+
+Execution (10 points): Compile and run your program to ensure it displays the "Hello, World!" message correctly.
+
+Submission:
+
+Submit a single document that includes both Part 1 (C++ history research) and Part 2 (the "Hello, World!" program). You can provide the history research in a text format (e.g., Markdown) and the program code in a code block. Ensure your document is well-organized and easy to read.
+
+Grading Criteria:
+
+Accuracy and depth of historical research about C++.
+Clarity and completeness of the "Hello, World!" program.
+Proper code structure and comments.
+Successful execution of the program.
+Overall presentation and organization of the submission.

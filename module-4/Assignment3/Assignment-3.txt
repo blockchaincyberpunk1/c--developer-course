@@ -1,0 +1,39 @@
+Exploring STL Algorithms in C++
+
+Objective: Explore STL algorithms for common programming tasks.
+
+Instructions:
+
+In this assignment, you will delve into the Standard Template Library (STL) algorithms in C++. STL algorithms are essential tools for performing various operations on data stored in STL containers. The objective of this assignment is to understand the role of STL algorithms, learn how to use them effectively, and apply them to solve common programming tasks.
+
+Part 1: Understanding STL Algorithms (15 points)
+
+Begin by explaining what STL algorithms are and their significance in C++ programming. Emphasize that STL algorithms provide reusable functions for performing operations on the elements of STL containers.
+
+Describe the main categories of STL algorithms, including:
+
+Sorting algorithms (e.g., std::sort).
+Searching algorithms (e.g., std::find).
+Iteration algorithms (e.g., std::for_each).
+Data manipulation algorithms (e.g., std::transform).
+Part 2: Demonstrating STL Algorithm Usage (65 points)
+
+Write C++ programs that demonstrate the usage of at least three different STL algorithms. Each program should:
+
+Create an STL container (e.g., vector, list) and populate it with sample data.
+Apply one or more STL algorithms to perform specific operations on the container's data.
+Output the results of the operations.
+You can choose from a variety of STL algorithms to demonstrate, such as sorting, searching, iteration, or data transformation algorithms.
+
+Part 3: Reflection and Conclusion (20 points)
+
+Reflect on your experience working with STL algorithms in C++. Discuss what you learned from using these algorithms and how they simplify common programming tasks.
+Submission:
+
+Submit your C++ programs along with a well-structured document that includes explanations, code snippets, and your reflections on the advantages of using STL algorithms.
+
+Grading Criteria:
+
+Clear explanations of STL algorithms and their role in C++.
+Correctly implemented and well-documented C++ programs that use different STL algorithms.
+Thoughtful reflection on the experience of working with STL algorithms and their significance in programming.

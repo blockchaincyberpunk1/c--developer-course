@@ -1,0 +1,159 @@
+# Prerequisites
+*.d
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+
+# Debug files
+*.dSYM/
+*.su
+*.idb
+*.pdb
+
+# Kernel Module Compile Results
+*.mod*
+*.cmd
+.tmp_versions/
+modules.order
+Module.symvers
+Mkfile.old
+dkms.conf
+
+# Dependency directories
+vendor/
+node_modules/
+
+# Build results
+[bd]ebug*/
+[rd]elease*/
+x64/
+x86/
+build/
+bld/
+bin/
+[Oo]bj/
+[Ll]ib/
+[Ll]og/
+
+# Autotools files
+.autotools
+*.loT
+*.autosave
+
+# Makefile generated files
+Makefile.in
+Makefile
+
+# CMake generated files
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+CMakeScripts/
+Testing/
+Makefile.cmake
+*.cmake
+!CMakeLists.txt
+
+# Qt generated files
+*.moc
+moc_*.cpp
+moc_*.h
+qrc_*.cpp
+ui_*.h
+
+# Others
+*.sdf
+*.opendb
+*.opensdf
+*.user
+*.userprefs
+*.ilk
+*.map
+*.iobj
+*.ipdb
+*.pgc
+*.pgd
+*.rsp
+*.sbr
+*.tlb
+*.tlog
+*.vsd
+*.vsix
+*.vssscc
+*.vsscc
+*.vspscc
+*.vsssuo
+*.vstemplate
+*.vsto
+*.wixobj
+*.wixpdb
+*.workspace
+*.wxp
+*.xml
+*.swp
+*.swo
+*.sln
+*.suo
+*.cache
+*.csproj
+*.vbproj
+*.vcxproj
+*.vcxproj.filters
+*.pdb
+*.ilk
+*.meta
+*.pyc
+*.pyo
+*.pyd
+*.pyc
+*.pyo
+*.pyd
+*.scc
+*.bak
+*.orig
+*.pre
+*.rej
+*.swo
+*.swp
+*.un~
+Session.vim
+/.vs
+/.vscode
+*.DS_Store
+Thumbs.db
+desktop.ini
+
+# Other
+/articles
+/guides
+/infographics
+/presentations
+
+# End of .gitignore

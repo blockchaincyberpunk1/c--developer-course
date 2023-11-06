@@ -1,0 +1,56 @@
+Game Development Frameworks Research
+
+Objective: Conduct research on game development frameworks that utilize C++.
+
+Instructions:
+
+In this assignment, you will explore a specific game development framework or engine that primarily utilizes C++ for game development. Your task is to create a detailed report or presentation on the chosen framework. This report should cover its architecture, development environment, key features, and notable games developed with it.
+
+Part 1: Choose a Game Development Framework
+
+Selection: Choose one game development framework or engine that predominantly relies on C++. You can select from well-known options such as Unreal Engine, CryEngine, Godot (using C++), or any other suitable framework.
+Part 2: Research and Report
+
+Framework Overview:
+
+Name and History: Provide the name of the chosen framework and a brief history of its development.
+Target Platforms: Specify the platforms (e.g., PC, consoles, mobile) for which the framework is suitable.
+Architecture:
+
+High-Level Architecture: Describe the high-level architecture of the framework, including its core components and subsystems.
+Graphics Rendering: Explain how the framework handles graphics rendering and what rendering APIs it supports.
+Physics Simulation: Discuss the framework's capabilities for physics simulation and interactions.
+Audio Support: Mention how the framework handles audio and sound effects.
+Development Environment:
+
+IDE and Tools: Identify the integrated development environment (IDE) commonly used with the framework and any specialized tools.
+Scripting Languages: If applicable, mention scripting languages (besides C++) supported by the framework.
+Asset Pipeline: Explain how assets like models, textures, and audio files are imported and managed.
+Key Features:
+
+Graphics Capabilities: Highlight the framework's capabilities for creating visually impressive games.
+AI and Pathfinding: Discuss AI and pathfinding tools and resources available within the framework.
+Networking: Explain the networking capabilities and multiplayer support provided by the framework.
+Community and Documentation: Assess the strength of the framework's community and the availability of documentation and tutorials.
+Part 3: Notable Games and Projects
+
+Notable Games: Provide a list of well-known games or projects that have been developed using the chosen framework. Include details about the titles, their genres, and any unique features enabled by the framework.
+Part 4: Conclusion and Insights
+
+Summary: Summarize the key points discussed in your report, emphasizing the strengths and unique aspects of the chosen framework.
+
+Personal Insights: Share your personal insights and thoughts on the framework. Discuss whether you find it suitable for certain types of game development projects.
+
+Part 5: Presentation (Optional)
+
+Presentation (Optional): If your assignment is in the form of a presentation, create a well-structured slide deck that covers the main points from your report. Be prepared to deliver a brief presentation to the class.
+Submission:
+
+Submit your report or presentation, ensuring that it includes all the sections mentioned above. If you choose to create a presentation, you can share it digitally with your instructor.
+
+Grading Criteria:
+
+Thorough coverage of the chosen game development framework, including its architecture and development environment.
+In-depth exploration of key features and notable games developed with the framework.
+Clear and organized presentation or report.
+Thoughtful personal insights and analysis of the framework's suitability for game development.

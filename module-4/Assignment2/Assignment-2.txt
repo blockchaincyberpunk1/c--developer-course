@@ -1,0 +1,43 @@
+Exploring STL Containers in C++
+
+Objective: Learn about STL containers and their usage.
+
+Instructions:
+
+In this assignment, you will explore the concept of containers in the Standard Template Library (STL) of C++. Containers are fundamental data structures provided by the STL for storing and manipulating data efficiently. The goal of this assignment is to understand various types of STL containers, their advantages, and how they can be used in practical programming tasks.
+
+Part 1: Understanding STL Containers (15 points)
+
+Begin by explaining what STL containers are in C++. Discuss their role in storing and organizing data. Mention that containers are generic classes that can hold objects of various data types.
+
+Describe the main categories of STL containers, including:
+
+Sequence containers (e.g., vector, list, deque).
+Associative containers (e.g., map, set).
+Container adaptors (e.g., stack, queue).
+Part 2: Advantages of STL Containers (10 points)
+
+Explain the advantages of using STL containers in C++ programming. Discuss key benefits such as dynamic memory management, ease of use, and standardization. Mention how containers provide data structures with built-in functionality.
+Part 3: Demonstrating STL Container Usage (50 points)
+
+Write C++ programs that demonstrate the usage of at least three different STL containers. Each program should:
+
+Create instances of the chosen containers.
+Populate the containers with sample data.
+Perform operations (e.g., insertion, deletion, traversal) on the containers.
+Output the results of the operations.
+You can choose from a variety of STL containers, including but not limited to vectors, maps, sets, lists, deques, and stack/queue adaptors.
+
+Part 4: Reflection and Conclusion (10 points)
+
+Reflect on your experience working with STL containers in C++. Discuss what you learned from using different containers and how they can simplify data management and manipulation tasks.
+Submission:
+
+Submit your C++ programs along with a well-structured document that includes explanations, code snippets, and your reflections on the advantages of using STL containers.
+
+Grading Criteria:
+
+Clear explanations of STL containers and their role in C++.
+Demonstrated understanding of the advantages of using STL containers.
+Correctly implemented and well-documented C++ programs that use different STL containers.
+Thoughtful reflection on the experience of working with STL containers.

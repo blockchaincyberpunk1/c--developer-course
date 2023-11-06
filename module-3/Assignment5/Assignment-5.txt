@@ -1,0 +1,42 @@
+Mini Project - Smart Pointer Application in C++
+
+Objective: Apply knowledge of C++ application structure and smart pointers to develop a practical application.
+
+Instructions:
+
+In this assignment, you will create a C++ mini project that applies your understanding of C++ application structure and smart pointers. The goal is to develop a practical application that addresses memory management challenges using smart pointers. Here are the details of the assignment:
+
+Part 1: Project Scenario Selection (10 points)
+
+Choose a project scenario that involves memory management challenges. Your scenario can be related to file management, data processing, or any other application where memory efficiency and proper resource management are crucial.
+Part 2: Application Development (40 points)
+
+Develop a C++ application based on your chosen project scenario. Your application should:
+Use smart pointers (e.g., std::shared_ptr, std::unique_ptr) to manage memory effectively.
+Implement features relevant to the project scenario. For example, if you choose a file management system, you should be able to create, read, update, and delete files.
+Handle memory allocation and deallocation transparently without memory leaks.
+Part 3: Documentation (10 points)
+
+Provide detailed documentation for your C++ application, including:
+A brief description of the project scenario and application's purpose.
+Clear instructions on how to compile and run the application.
+Comments and explanations within the code to describe the functionality and use of smart pointers.
+Any other relevant information that helps users understand and use your application.
+Part 4: Testing and Validation (10 points)
+
+Test your application thoroughly to ensure it functions correctly and efficiently. Provide a report summarizing your testing process, including any issues encountered and how you resolved them.
+Part 5: Reflection (10 points)
+
+Write a reflection (150-200 words) on your experience developing the application. Discuss how using smart pointers improved memory management and any lessons you learned from this project.
+Submission:
+
+Submit your C++ application code, documentation, testing report, and reflection. Ensure that your code effectively addresses memory management challenges using smart pointers.
+
+Grading Criteria:
+
+Selection of a project scenario that involves memory management challenges.
+A well-documented C++ application with clear explanations and comments.
+Correctness and functionality of the application.
+Thorough testing and validation of the application.
+Insightful reflection on the experience of using smart pointers in the project.
+Adherence to submission guidelines and deadlines.

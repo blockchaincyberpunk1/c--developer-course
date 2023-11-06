@@ -1,0 +1,42 @@
+Mini Project - Building an STL-Based C++ Application
+
+Objective: Apply knowledge of STL to build a practical C++ application.
+
+Instructions:
+
+In this assignment, you will demonstrate your proficiency in using the Standard Template Library (STL) to create a practical C++ application. You are required to choose a project scenario that involves working with data and performing operations on it.
+
+Project Scenario: Choose one of the following project scenarios or propose your own:
+
+Contact Management System: Create a C++ application that allows users to manage their contacts. Users should be able to add contacts, search for contacts, list all contacts, and delete contacts.
+
+Quiz Application: Develop a C++ quiz application that presents users with questions and keeps track of their scores. Users should be able to answer questions, view their scores, and see correct answers.
+
+Project Requirements:
+
+STL Utilization: Utilize STL containers (e.g., vectors, maps, sets) to store and manage data relevant to your chosen project. For example, in the contact management system, you can use a vector to store contact information.
+
+STL Algorithms: Implement at least two different STL algorithms (e.g., sorting, searching, counting) in your application to perform operations on the stored data. For instance, you can use the std::find algorithm to search for a contact by name in the contact management system.
+
+User Interface: Create a simple text-based user interface (command-line interface) to interact with your application. Users should be able to perform essential operations using the interface.
+
+Data Manipulation: Demonstrate data manipulation using STL algorithms. For example, you can sort the contacts by name, count the number of quiz questions answered correctly, or find specific contacts.
+
+Documentation: Document your code thoroughly, including comments explaining the purpose of functions, variables, and any intricate logic. Provide clear instructions on how to use your application.
+
+Submission:
+
+Submit your C++ application's source code along with a document that includes the following:
+
+A brief description of your chosen project scenario.
+An explanation of how you utilized STL containers and algorithms in your application.
+Code snippets demonstrating the usage of STL containers and algorithms.
+Clear instructions on how to compile and run your application.
+Any additional features or enhancements you incorporated into your application.
+Grading Criteria:
+
+Proper utilization of STL containers and algorithms for data storage and manipulation.
+Correct implementation of the chosen project scenario.
+A functional user interface that allows users to interact with the application.
+Well-documented code with clear explanations.
+Creativity and additional features (if applicable).

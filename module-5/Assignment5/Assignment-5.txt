@@ -1,0 +1,45 @@
+Stream Manipulation and Formatting in C++
+
+Objective: Learn about stream manipulation and formatting in C++.
+
+Instructions:
+
+In this assignment, you will explore the concept of stream manipulation and formatting in C++. You will create a C++ program that reads data from an input file, applies stream manipulators to format the data, and then writes the formatted data to an output file. Stream manipulators such as setw, setprecision, and fixed can be used to control the appearance of data in the output.
+
+Part 1: Understanding Stream Manipulation and Formatting
+
+Stream Manipulators: Explain what stream manipulators are in C++. Describe their role in controlling the formatting of data when it is read from or written to streams.
+
+Common Stream Manipulators: Discuss some common stream manipulators such as setw, setprecision, and fixed. Explain when and why they are used for formatting.
+
+Part 2: Developing a C++ Program
+
+Input and Output Files: Choose or create an input text file that contains data (e.g., numeric values). Decide on an output file where you will store the formatted results.
+
+C++ Program: Develop a C++ program that performs the following tasks:
+
+Open the input file for reading using the ifstream class.
+Read data from the input file.
+Apply stream manipulators to format the data (e.g., set the width of fields, set the number of decimal places for floating-point values).
+Open the output file for writing using the ofstream class.
+Write the formatted data to the output file.
+Part 3: Documentation and Explanation
+
+Code Explanation: Document your C++ program with clear comments explaining how you use stream manipulators to format the data and how data is read from and written to files.
+
+Execution Output: Include the output of your program when executed. Display the contents of the input file and the formatted data in the output file.
+
+Part 4: Reflection
+
+Stream Manipulation Significance: Reflect on the significance of stream manipulation and formatting in C++ programming. Discuss how it enhances the presentation of data and improves readability.
+Submission:
+
+Submit your well-documented C++ program source code, input and output files, explanations of stream manipulation and formatting techniques used, and your reflection on the importance of stream manipulation in C++ programming.
+
+Grading Criteria:
+
+Understanding of stream manipulation and formatting concepts in C++.
+Correct implementation of a C++ program that reads data from an input file, applies stream manipulators to format the data, and writes the formatted data to an output file.
+Effective use of stream manipulators (e.g., setw, setprecision, fixed) for formatting.
+Documentation quality, including clear explanations and comments.
+Reflection on the significance of stream manipulation and formatting in C++ programming.

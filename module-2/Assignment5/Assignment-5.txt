@@ -1,0 +1,48 @@
+Mini Project - Object-Oriented Application
+
+Objective: Apply OOP principles and advanced C++ features to create an object-oriented application.
+
+Instructions:
+
+In this final assignment, you will apply the knowledge you've gained throughout the course to develop a C++ application that demonstrates your proficiency in object-oriented programming (OOP) and advanced C++ features. Your task is to create a mini project that models real-world entities using classes and objects. The project should incorporate inheritance, polymorphism, and at least one advanced C++ feature relevant to the project's context. Below are the details of the assignment:
+
+Choose a Project Scenario (10 points):
+
+Select a project scenario or domain for your mini project (e.g., a library management system, a simple game, a student information system).
+Briefly describe the purpose and functionality of your project.
+Design and Implement Classes (20 points):
+
+Identify key entities or objects within your project scenario.
+Design and implement C++ classes that represent these objects. Ensure that classes include data members and member functions.
+Utilize OOP principles such as encapsulation, inheritance, and polymorphism in your class design.
+Inheritance and Polymorphism (20 points):
+
+Implement inheritance by creating base and derived classes, demonstrating a clear hierarchy.
+Apply polymorphism through the use of virtual functions or method overriding to showcase dynamic behavior based on the object's type.
+Advanced C++ Feature (20 points):
+
+Incorporate at least one advanced C++ feature that is relevant to your project scenario. This feature could include operator overloading, templates, exception handling, or dynamic memory allocation.
+Explain how and why you chose to use this feature within your project.
+Documentation and Comments (15 points):
+
+Create a well-structured document that includes your C++ code.
+Include comments in your code to explain the purpose of classes, functions, and key code segments.
+Provide explanations of how your code demonstrates OOP principles and the chosen advanced feature.
+Testing and Output (15 points):
+
+Ensure that your program runs without errors.
+Include sample output or test cases that demonstrate the functionality of your application.
+Test your code with different inputs or scenarios to validate its correctness.
+Submission:
+
+Submit your assignment document, which should include the C++ code, comments, explanations, and sample output. Make sure your document is well-organized and easy to follow.
+
+Grading Criteria:
+
+Clear project scenario selection and description.
+Effective design and implementation of classes with appropriate data members and member functions.
+Demonstrated use of inheritance and polymorphism with a clear class hierarchy.
+Incorporation of at least one relevant advanced C++ feature.
+Well-structured code with meaningful comments.
+Correct and meaningful sample output or test cases.
+Demonstrated understanding of OOP principles and advanced C++ features in the context of the project.

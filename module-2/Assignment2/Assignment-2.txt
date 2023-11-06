@@ -1,0 +1,47 @@
+C++ Classes and Objects
+
+Objective: Learn how to define and use classes and objects in C++.
+
+Instructions:
+
+In this assignment, you will dive deeper into C++ classes and objects. You'll define a class representing a real-world entity and create objects of that class to demonstrate their usage. Below are the tasks for this assignment:
+
+Introduction to Classes and Objects (15 points):
+
+Begin by explaining what classes and objects are in the context of C++.
+Describe the structure of a C++ class, including:
+Data members (attributes): Explain what data members are and how they are used to store information about objects.
+Member functions (methods): Describe member functions and their role in performing actions related to the class.
+Define a C++ Class (20 points):
+
+Choose a real-world entity that you want to model using a C++ class (e.g., a car, a bank account, a student).
+Define a class for this entity with appropriate data members and member functions.
+Include at least two data members (attributes) and two member functions (methods) in your class.
+Ensure that the class provides meaningful functionality related to the chosen entity.
+Instantiate Objects (20 points):
+
+Write a C++ program that includes the definition of the class you created.
+Instantiate multiple objects of your class within the program.
+Demonstrate how to set values for the data members of each object and invoke the member functions.
+Provide output that showcases the interactions with the objects.
+Documentation and Comments (15 points):
+
+Create a well-structured document that presents your class definition and program.
+Include comments in your code to explain the purpose of data members, member functions, and key code segments.
+Use appropriate headings and formatting for clarity.
+Testing and Output (15 points):
+
+Ensure that your program runs without errors.
+Include sample output in your document that illustrates the behavior of the class and objects.
+Test different scenarios to showcase the flexibility and functionality of your class.
+Submission:
+
+Submit your assignment document that includes the class definition, C++ program, comments, and sample output. Make sure your document is organized and easy to follow.
+
+Grading Criteria:
+
+Accurate and clear explanations of classes and objects in C++.
+Well-defined class structure with appropriate data members and member functions.
+Successful instantiation of objects and effective demonstration of their usage.
+Documentation that is well-organized and includes helpful comments.
+Correct and meaningful sample output that showcases the class and object interactions.

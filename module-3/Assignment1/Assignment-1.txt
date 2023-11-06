@@ -1,0 +1,36 @@
+Understanding C++ Application Structure
+
+Objective: Explore the structure of a well-organized C++ application.
+
+Instructions:
+
+In this assignment, you will gain a deeper understanding of the structure of a well-organized C++ application. You will learn about the importance of organizing code into header (.h) and source (.cpp) files and using namespaces for code organization. Below are the details of the assignment:
+
+Part 1: Understanding Code Organization (10 points)
+
+Write a brief explanation (150-200 words) of why it is essential to organize C++ code into separate header (.h) and source (.cpp) files in an application. Discuss the advantages of this approach and how it contributes to code modularity and maintainability.
+Part 2: Creating a Structured C++ Program (20 points)
+
+Develop a simple C++ program that follows a structured approach with separate header and source files. Your program should perform a straightforward task, such as calculating the factorial of a number or finding the sum of elements in an array.
+
+Your program should include the following elements:
+
+A header file (.h) that contains the function prototypes and any necessary class declarations.
+A source file (.cpp) that implements the functions defined in the header file.
+Proper use of namespaces to encapsulate your code. Create a custom namespace to enclose your functions and variables.
+A main function that calls the functions defined in the source file.
+Part 3: Documentation (10 points)
+
+Provide comments within your code to explain the purpose of each function and any critical code segments. Ensure that your code is well-documented for clarity.
+Submission:
+
+Submit your C++ program, including both the header (.h) and source (.cpp) files, along with your written explanation of the importance of code organization. Ensure that your code is well-structured and organized.
+
+Grading Criteria:
+
+Clear and concise explanation of the importance of organizing C++ code.
+A well-structured C++ program with separate header and source files.
+Proper use of namespaces to encapsulate code.
+Effective comments and documentation within the code.
+Correctness and functionality of the C++ program.
+Adherence to submission guidelines and deadlines.
